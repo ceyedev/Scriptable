@@ -4,22 +4,19 @@ A Scriptable project that provides a flexible widget framework using a shared `b
 
 You can build your own widgets by using the provided modules or choose from existing examples.
 
-## Features
-
-- Requires the `base.scriptable` file as the foundation
-- Modular widget creation system
-- Supports simple and advanced widget designs
-- Provides reusable components for creating custom widgets
-- Choose and configure different widgets
-
 ## Example Widgets
 
 The following widgets are examples of what can be created with this framework:
 
 - Unity Asset Store - Publisher of the Week
 - The 3 newest Craftpix.com assets
+- Display info about Brawl Stars like Trophies or Brawlers (done, but not uploaded yet)
 - Current TryHackMe statistics (Currently unavailable due to missing APIs)
 - Most popular image from the daily Pixilart.com competition (Currently unavailable due to Cloudflare protection)
+
+<p align="center">
+  <img style="width:auto; height:70vh;" alt="Widgets" src="https://github.com/user-attachments/assets/17a1a1a5-1ffc-455b-bb0f-4bd229ee3c25" />
+</p>
 
 ## Setup
 
