@@ -15,7 +15,7 @@ The following widgets are examples of what can be created with this framework:
 - Most popular image from the daily Pixilart.com competition (Currently unavailable due to Cloudflare protection)
 
 <p align="center">
-  <img style="width:auto; height:70vh;" alt="Widgets" src="https://github.com/user-attachments/assets/17a1a1a5-1ffc-455b-bb0f-4bd229ee3c25" />
+  <img style="width:100%; height:auto;" alt="Widgets" src="https://github.com/user-attachments/assets/17a1a1a5-1ffc-455b-bb0f-4bd229ee3c25"/>
 </p>
 
 ## Setup
